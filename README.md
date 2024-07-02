@@ -2,7 +2,7 @@
 <ol>
 <li>Open Chrome and go to chrome://extensions/.</li>
 <li>Enable "Developer mode" using the toggle switch in the top right corner.</li>
-<li>Click "Load unpacked" and select the directory where you created your extension.</li>
+<li>Click "Load unpacked" and select the directory or zip where we have our extension.</li>
 </ol>
 <h2>Testing</h2>
 After loading the extension, you can visit websites that usually display ads to verify that the extension is working. You should not see ads from the specified domains.
